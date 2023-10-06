@@ -1,0 +1,14 @@
+{
+    "name": "sitedigitaloficial/avanza",
+    "description": "Site Digital S.A.S Avanza Módulo para la presentación de espacios publicitarios para empresas de diferentes sectores económicos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SiteDigital",
+            "email": "desarrollo@sitedigital.com.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
